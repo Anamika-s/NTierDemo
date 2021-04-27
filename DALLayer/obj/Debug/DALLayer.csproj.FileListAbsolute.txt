@@ -1,0 +1,17 @@
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\obj\Debug\DALLayer.csprojAssemblyReference.cache
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\obj\Debug\DALLayer.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\bin\Debug\DALLayer.dll.config
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\bin\Debug\DALLayer.dll
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\bin\Debug\DALLayer.pdb
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\bin\Debug\EntityFramework.dll
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\bin\Debug\EntityFramework.xml
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\obj\Debug\DALLayer.csproj.CopyComplete
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\obj\Debug\DALLayer.dll
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\obj\Debug\DALLayer.pdb
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\bin\Debug\BOLayer.dll
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\bin\Debug\BOLayer.pdb
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\obj\Debug\DALLayer.Migrations.InitialCreate.resources
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\obj\Debug\DALLayer.csproj.GenerateResource.cache
+C:\Users\Anamika\source\repos\DALLayer\DALLayer\obj\Debug\DALLayer.Migrations.added.resources
